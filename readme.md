@@ -1,5 +1,10 @@
 
 # BOOTSTRAP 4 Project 2
-I learned how to set up a SASS compiler, Koala. And how to use SASS to allow more customizations to Bootstrap 4.
+The project introduced SASS and its ability to customize Bootstrap 4 content. I also learned how to set up Koala, a SASS compiler.
 
-## Languages
+ ## Tools & Languages:
+* HTML5
+* CSS (CSS3, Bootstrap 4, SASS)
+* JavaScript (jQuery)
+
+
